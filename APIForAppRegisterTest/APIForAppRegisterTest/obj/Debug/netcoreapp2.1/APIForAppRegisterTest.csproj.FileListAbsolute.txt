@@ -1,0 +1,14 @@
+c:\vs\AzureAuthAPITest\APIForAppRegisterTest\APIForAppRegisterTest\bin\Debug\netcoreapp2.1\APIForAppRegisterTest.deps.json
+c:\vs\AzureAuthAPITest\APIForAppRegisterTest\APIForAppRegisterTest\bin\Debug\netcoreapp2.1\APIForAppRegisterTest.runtimeconfig.json
+c:\vs\AzureAuthAPITest\APIForAppRegisterTest\APIForAppRegisterTest\bin\Debug\netcoreapp2.1\APIForAppRegisterTest.runtimeconfig.dev.json
+c:\vs\AzureAuthAPITest\APIForAppRegisterTest\APIForAppRegisterTest\bin\Debug\netcoreapp2.1\APIForAppRegisterTest.dll
+c:\vs\AzureAuthAPITest\APIForAppRegisterTest\APIForAppRegisterTest\bin\Debug\netcoreapp2.1\APIForAppRegisterTest.pdb
+c:\vs\AzureAuthAPITest\APIForAppRegisterTest\APIForAppRegisterTest\obj\Debug\netcoreapp2.1\APIForAppRegisterTest.csprojAssemblyReference.cache
+c:\vs\AzureAuthAPITest\APIForAppRegisterTest\APIForAppRegisterTest\obj\Debug\netcoreapp2.1\APIForAppRegisterTest.csproj.CoreCompileInputs.cache
+c:\vs\AzureAuthAPITest\APIForAppRegisterTest\APIForAppRegisterTest\obj\Debug\netcoreapp2.1\APIForAppRegisterTest.RazorAssemblyInfo.cache
+c:\vs\AzureAuthAPITest\APIForAppRegisterTest\APIForAppRegisterTest\obj\Debug\netcoreapp2.1\APIForAppRegisterTest.RazorAssemblyInfo.cs
+c:\vs\AzureAuthAPITest\APIForAppRegisterTest\APIForAppRegisterTest\obj\Debug\netcoreapp2.1\APIForAppRegisterTest.AssemblyInfoInputs.cache
+c:\vs\AzureAuthAPITest\APIForAppRegisterTest\APIForAppRegisterTest\obj\Debug\netcoreapp2.1\APIForAppRegisterTest.AssemblyInfo.cs
+c:\vs\AzureAuthAPITest\APIForAppRegisterTest\APIForAppRegisterTest\obj\Debug\netcoreapp2.1\APIForAppRegisterTest.RazorTargetAssemblyInfo.cache
+c:\vs\AzureAuthAPITest\APIForAppRegisterTest\APIForAppRegisterTest\obj\Debug\netcoreapp2.1\APIForAppRegisterTest.dll
+c:\vs\AzureAuthAPITest\APIForAppRegisterTest\APIForAppRegisterTest\obj\Debug\netcoreapp2.1\APIForAppRegisterTest.pdb
