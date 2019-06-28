@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\vs\\AzureAuthAPITest\\APIForAppRegisterTest\\APIForAppRegisterTest\\APIForAppRegisterTest.csproj": {}
+    "C:\\VS\\AzureAuthAPITest\\APIForAppRegisterTest\\APIForAppRegisterTest\\APIForAppRegisterTest.csproj": {}
   },
   "projects": {
-    "c:\\vs\\AzureAuthAPITest\\APIForAppRegisterTest\\APIForAppRegisterTest\\APIForAppRegisterTest.csproj": {
+    "C:\\VS\\AzureAuthAPITest\\APIForAppRegisterTest\\APIForAppRegisterTest\\APIForAppRegisterTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\vs\\AzureAuthAPITest\\APIForAppRegisterTest\\APIForAppRegisterTest\\APIForAppRegisterTest.csproj",
+        "projectUniqueName": "C:\\VS\\AzureAuthAPITest\\APIForAppRegisterTest\\APIForAppRegisterTest\\APIForAppRegisterTest.csproj",
         "projectName": "APIForAppRegisterTest",
-        "projectPath": "c:\\vs\\AzureAuthAPITest\\APIForAppRegisterTest\\APIForAppRegisterTest\\APIForAppRegisterTest.csproj",
+        "projectPath": "C:\\VS\\AzureAuthAPITest\\APIForAppRegisterTest\\APIForAppRegisterTest\\APIForAppRegisterTest.csproj",
         "packagesPath": "C:\\Users\\arosss\\.nuget\\packages\\",
-        "outputPath": "c:\\vs\\AzureAuthAPITest\\APIForAppRegisterTest\\APIForAppRegisterTest\\obj\\",
+        "outputPath": "C:\\VS\\AzureAuthAPITest\\APIForAppRegisterTest\\APIForAppRegisterTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
