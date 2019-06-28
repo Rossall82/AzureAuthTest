@@ -8,6 +8,7 @@ namespace APIForAppRegisterTest.Controllers
     public class ValuesController : ControllerBase
     {
         // GET api/values
+        [Route("/")]
         [HttpGet]
         public ActionResult<IEnumerable<string>> Get()
         {
